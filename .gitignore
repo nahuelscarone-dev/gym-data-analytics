@@ -1,0 +1,11 @@
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales (por si usás más adelante)
+.venv/
+venv/
+env/
+
+# Variables de entorno (contraseñas, apikeys)
+.env
