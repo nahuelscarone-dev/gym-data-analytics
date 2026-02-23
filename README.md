@@ -15,7 +15,7 @@ El proyecto abarca el ciclo completo de los datos:
 2. **Modelado Relacional:** Estructuración de los datos exportados mediante un Modelo en Estrella (Star Schema) optimizado para su consumo analítico.
 3. **Visualización y KPIs:** Diseño de un tablero interactivo y profesional en Power BI. Se implementaron expresiones DAX (como `SUMX` y `RELATED`) para calcular métricas críticas de negocio, incluyendo Ingresos Totales, rendimiento por tipo de plan y distribución de métodos de pago.
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 * `generador_datos.py`: Script de Python con el proceso automatizado de extracción y transformación (ETL).
 * `DB_Gimnasio.xlsx`: Base de datos procesada, limpia y lista para ingestar.
 * `dashboard_gimnasio.pbix`: Tablero interactivo de Power BI con el análisis visual, financiero y paleta de colores corporativa.
